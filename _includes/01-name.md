@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Elena Ruiz
+#Learning to use this
+###First steps
