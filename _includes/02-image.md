@@ -1,1 +1,1 @@
-![Image of Github cat](https://www.google.co.uk/search?q=github+images&tbm=isch&source=iu&ictx=1&fir=5cWNHtEIveYFNM%253A%252CH8p6HHzcTglWAM%252C_&usg=AFrqEzftTTdn3okTWPV4gsseRlaCtOfZ-w&sa=X&ved=2ahUKEwjHpMaIisTdAhVkKsAKHURjAzMQ9QEwAXoECAYQBA#imgrc=5cWNHtEIveYFNM:)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
